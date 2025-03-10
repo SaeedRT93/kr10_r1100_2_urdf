@@ -35,7 +35,7 @@
         <color
           rgba="0.53 0.52 0.5 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 base.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 base.JPG" />
       </material>
     </visual>
     <collision>
@@ -78,7 +78,7 @@
         <color
           rgba="0.95 0.94 0.92 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a1.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a1.JPG" />
       </material>
     </visual>
     <collision>
@@ -121,7 +121,7 @@
         <color
           rgba="95 0.94 0.92 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a2.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a2.JPG" />
       </material>
     </visual>
     <collision>
@@ -164,7 +164,7 @@
         <color
           rgba="0.95 0.94 0.92 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a3.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a3.JPG" />
       </material>
     </visual>
     <collision>
@@ -207,7 +207,7 @@
         <color
           rgba="0.95 0.94 0.92 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a4.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a4.JPG" />
       </material>
     </visual>
     <collision>
@@ -250,7 +250,7 @@
         <color
           rgba="0.95 0.94 0.92 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a5.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a5.JPG" />
       </material>
     </visual>
     <collision>
@@ -293,7 +293,7 @@
         <color
           rgba="0.15 0.15 0.16 1" />
         <texture
-          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a6.SLDPRT" />
+          filename="package://kr10_r1100_2_urdf/textures/KR10 R1100-2 a6.JPG" />
       </material>
     </visual>
     <collision>
