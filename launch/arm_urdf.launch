@@ -6,10 +6,10 @@
     <arg name="arg_P" default="0.00" />
     <arg name="arg_Y" default="0.00" />
 
-    <!--Urdf file path to my KR10R1100-2 URDF file-->
+    <!--Urdf file path to my KUKA KR10 R1100-2 robot URDF file-->
     <param name="robot_description" textfile="$(find kr10_r1100_2_urdf)/urdf/kr10_r1100_2_urdf.urdf"/>
 
-    <!--spawn a empty gazebo world and pause the time so we can disable the physics (gravity)-->
+    <!--spawn a empty gazebo world and pause the time so I can disable the physics (gravity)-->
     <include file="$(find gazebo_ros)/launch/empty_world.launch">
         <arg name="paused" value="true"/>
         <arg name="use_sim_time" value="true"/>
